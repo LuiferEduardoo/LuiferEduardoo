@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.luifereduardoo.com/img/about/foto-de-perfil.webp">
+    <img src="https://i.ibb.co/5F02gBs/image.png">
 </div>
 
 

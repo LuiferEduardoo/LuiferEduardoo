@@ -41,6 +41,7 @@
    ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
    ![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+   ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 <br>

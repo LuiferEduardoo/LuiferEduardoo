@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ibb.co/5F02gBs/image.png" width="300">
+    <img src="https://cdn.luifereduardoo.com/img/about/my-github.webp" width="500">
 </div>
 
 

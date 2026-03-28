@@ -22,6 +22,7 @@
     ![TypeScript](https://img.shields.io/badge/TypeScript%20-%2314354C.svg?style=for-the-badge&logo=typescript&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
+    ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <br>   
     
@@ -31,6 +32,12 @@
    ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
    ![React.js](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+<br> 
+
+- **Mobile Developer**:
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
   
 
 <br>

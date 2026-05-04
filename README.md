@@ -4,7 +4,7 @@
 
 
 <h1 align="center"></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi, I'm Luifer Ortega 👨🏻‍💻</h1>
-<h3 align="center">I am a full-stack developer, passionate about technology and innovation, with a love for learning and continuous improvement. My main focus is to apply my skills to ambitious projects that create a positive impact by solving or improving existing projects.</h3>
+<h3 align="center">I am a software developer, passionate about technology and innovation, with a love for learning and continuous improvement. My main focus is to apply my skills to ambitious projects that create a positive impact by solving or improving existing projects.</h3>
 
 <br>
 <br>
